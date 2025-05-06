@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div>
+<div style="display: flex; flex-direction: column; align-items: flex-start">
   <a href="https://github.com/iagomartins">
   <img style="margin=30px 0" height="160em" align="center" title="<c0de/>" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
   </a><br>
