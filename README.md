@@ -5,8 +5,6 @@
   </a>
   <p style="text-align: center;">Welcome to my Github page, here you can see some of my work as a developer. 😆</p>
 </div>
-
-  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
   
 
   
@@ -21,10 +19,4 @@
 </a>
   <br />
 
-  </div>
-
- 
-##
-   <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=iagomartins&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
   </div>
