@@ -2,7 +2,7 @@
 <div>
   <a href="https://github.com/iagomartins">
   <img height="160em" align="center" title="<c0de/>" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
-  </a>
+  </a><br>
   <p style="text-align: center;">Welcome to my Github page, here you can see some of my work as a developer. 😆</p><br>
 </div>
   
