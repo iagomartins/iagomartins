@@ -6,7 +6,7 @@ Welcome to my Github page, here you can see some of my work as a developer. 😆
 
 
  
-<div align="center" >
+<div align="left" >
   <a href="https://skillicons.dev"   >
     <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,php,laravel,css,html,react,tailwind,nodejs,vue,docker,figma,github,materialui,linux,postman,vite,bootstrap,mysql,azure,unity" />
   </a>
