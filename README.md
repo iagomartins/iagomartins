@@ -1,15 +1,8 @@
 ### Hi there 👋
-
-<div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 30px">
-  <a style="margin: 30px 0; display: block" href="https://github.com/iagomartins">
-    <img height="160em" align="center" title="<c0de/>" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
-  </a>
-</div>
-
 Welcome to my Github page, here you can see some of my work as a developer. 😆
-  
 
-  
+[![Iago's GitHub stats](https://github-readme-stats.vercel.app/api?username=iagomartins)](https://github.com/anuraghazra/github-readme-stats)
+
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iagomartins&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iagomartins&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
