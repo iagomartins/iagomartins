@@ -1,7 +1,7 @@
 ### Hi there 👋
 Welcome to my Github page, here you can see some of my work as a developer. 😆
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iagomartins&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Iago's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagomartins&layout=compact&theme=dark&hide_border=true" /></a> |
+| <a href="https://github.com/iagomartins/github-readme-stats"><img align="center" src="https://github-readme-stats-a49xd5k3w.vercel.app/api?username=iagomartins&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Iago's github stats" /></a> | <a href="https://github.com/iagomartins/github-readme-stats"><img align="center" src="https://github-readme-stats-a49xd5k3w.vercel.app/api/top-langs/?username=iagomartins&layout=3d&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
